@@ -1,0 +1,21 @@
+#searchh1 {
+    margin-top: 20%;
+}
+
+body{
+    background-color: #f5f5f5;
+}
+
+#searchheading {
+    margin-left: 12.5%;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    
+}
+.card {
+    margin-left: 12.5%;
+}
+
+.card-img {
+    height: 25rem;
+}
